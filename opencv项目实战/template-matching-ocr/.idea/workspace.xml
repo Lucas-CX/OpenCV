@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f45a3862-a6f6-4ce2-9b66-1c7865e18841" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1fSNbI0f4m6cqKCH11M9QPCnBlU" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/software/Anaconda3/envs/python36/python.exe" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ocr_template_match" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="template-matching-ocr" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ocr_template_match.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ocr_template_match" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f45a3862-a6f6-4ce2-9b66-1c7865e18841" name="Default Changelist" comment="" />
+      <created>1596207603162</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596207603162</updated>
+      <workItem from="1596207619475" duration="1260000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="420" y="115" key="FileChooserDialogImpl" timestamp="1596207842543">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="420" y="115" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1596207842543" />
+    <state width="787" height="192" key="GridCell.Tab.0.bottom" timestamp="1596210251918">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="787" height="192" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1596210251918" />
+    <state width="787" height="192" key="GridCell.Tab.0.center" timestamp="1596210251918">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="787" height="192" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1596210251918" />
+    <state width="787" height="192" key="GridCell.Tab.0.left" timestamp="1596210251918">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="787" height="192" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1596210251918" />
+    <state width="787" height="192" key="GridCell.Tab.0.right" timestamp="1596210251918">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="787" height="192" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1596210251918" />
+    <state x="142" y="3" key="SettingsEditor" timestamp="1596207953532">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="142" y="3" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1596207953532" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/template_matching_ocr$ocr_template_match.coverage" NAME="ocr_template_match Coverage Results" MODIFIED="1596207693975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
